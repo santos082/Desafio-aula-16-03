@@ -1,5 +1,5 @@
 # Requisitos Funcionais (RF) 
-======================================
+
 
 Os requisitos funcionais descrevem o que o sistema deve ser capaz de fazer.
 
@@ -28,7 +28,7 @@ Os requisitos funcionais descrevem o que o sistema deve ser capaz de fazer.
 
 
 #  Requisitos Não-Funcionais (RNF) 
-======================================
+
 
 Os requisitos não-funcionais descrevem como o sistema deve funcionar, 
 considerando qualidade e organização do código.
@@ -53,7 +53,7 @@ considerando qualidade e organização do código.
 
 
 # Regras de Negócio (RN) 
-======================================
+
 
 
 As regras de negócio definem como algumas decisões do sistema devem ser tomadas,
@@ -73,16 +73,16 @@ com base nas informações analisadas.
 - RN05: Todos os resultados devem ser organizados em um relatório final,
       permitindo que a coordenação consulte os dados de forma rápida e clara. 
 
-# Mapa de Empatia
+# Mapa de Empatia 
 
-======================================
+
 # O que vê:
   - Dados desorganizados
   - Informações inconsistentes
   - Dificuldados em análizar os dados
 
 
-======================================
+
 
 # O que ouve:
 
@@ -92,14 +92,14 @@ com base nas informações analisadas.
  - Insegurança nos dados
  - Dificuldade em confiar nos resultados
 
-======================================
+
 
 # O que fala e faz:
 
  - Analisa manualmente
  - Perde tempo com retrabalho
 
-======================================
+
 
 # Dores:
 
@@ -107,7 +107,6 @@ com base nas informações analisadas.
  - Falta de automação
  - Alto risco de erro
 
-======================================
 
 # Ganhos:
 
@@ -116,4 +115,5 @@ com base nas informações analisadas.
  - Decisões mais seguras
 
 
+![Organização de Dados](https://media.giphy.com)
 
