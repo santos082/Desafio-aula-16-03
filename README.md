@@ -1,6 +1,5 @@
 # Requisitos Funcionais (RF) 
-
-
+======================================
 
 Os requisitos funcionais descrevem o que o sistema deve ser capaz de fazer.
 
@@ -29,7 +28,7 @@ Os requisitos funcionais descrevem o que o sistema deve ser capaz de fazer.
 
 
 #  Requisitos Não-Funcionais (RNF) 
-
+======================================
 
 Os requisitos não-funcionais descrevem como o sistema deve funcionar, 
 considerando qualidade e organização do código.
@@ -53,8 +52,8 @@ considerando qualidade e organização do código.
      e evolução do código ao longo do tempo.
 
 
-
 # Regras de Negócio (RN) 
+======================================
 
 
 As regras de negócio definem como algumas decisões do sistema devem ser tomadas,
@@ -72,4 +71,51 @@ com base nas informações analisadas.
       geral das informações.
 
 - RN05: Todos os resultados devem ser organizados em um relatório final,
-      permitindo que a coordenação consulte os dados de forma rápida e clara.
+      permitindo que a coordenação consulte os dados de forma rápida e clara. 
+
+# Mapa de Empatia
+
+======================================
+- O que vê:
+   Dados desorganizados
+   Informações inconsistentes
+   Dificuldados em análizar os dados
+
+
+======================================
+
+- O que ouve:
+
+  Reclamações sobre erros
+  Pressão por rapidez
+  O que pensa e sente:
+  Insegurança nos dados
+  Dificuldade em confiar nos resultados
+
+======================================
+
+- O que fala e faz:
+
+  Analisa manualmente
+  Perde tempo com retrabalho
+
+======================================
+
+- Dores:
+
+  Dados incompletos
+  Falta de automação
+  Alto risco de erro
+
+======================================
+
+- Ganhos:
+
+  Automação
+  Relatórios rápidos
+  Decisões mais seguras
+
+  ## TRELLO
+
+  ![Alt](imagens/imagens.png)
+
