@@ -19,5 +19,5 @@ def main():
     gerar_relatorio(recuperacao, top_student, medias)
 
 
-if __name__== "_main_":
+if __name__ == "__main__":
     main()
