@@ -1,3 +1,6 @@
+![Processamento](https://i.giphy.com)
+
+
 # Requisitos Funcionais (RF) 
 
 
@@ -108,5 +111,5 @@ com base nas informações analisadas.
  - Decisões mais seguras
 
 
-![Processamento](https://media.giphy.com)
+
 
