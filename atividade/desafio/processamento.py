@@ -8,4 +8,5 @@ def validar_notas(notas):
 
     return True
 
-
+def calcular_media(notas):
+    return sum(notas) / len(notas)
