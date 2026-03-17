@@ -1,4 +1,5 @@
-![Processamento](https://i.giphy.com)
+![Processamento](https://media3.giphy.com)
+
 
 
 # Requisitos Funcionais (RF) 
