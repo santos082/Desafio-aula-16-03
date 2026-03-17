@@ -40,3 +40,25 @@ def analisar_alunos(dados):
         top_student = ("Nenhum", 0)
 
     return recuperacao, top_student, medias
+
+
+def gerar_relatorio(recuperacao, top_student, medias):
+    f = open("resultado.txt", "w")
+
+    f.write("=== RELATÓRIO ACADÊMICO ===\n\n")
+
+    f.write("Todas as Médias:\n")
+    for nome, media in medias:
+        f.write(nome + ": " + str(round(media, 2)) + "\n")
+
+    f.write("\nAlunos em Recuperação:\n")
+    if len(recuperacao) > 0:
+        for nome, media in recuperacao:
+            f.write(nome + ": " + str(round(media, 2)) + "\n")
+    else:
+        f.write("Nenhum aluno em recuperação\n")
+
+    f.write("\nTop Student:\n")
+    f.write(top_student[0] + ": " + str(round(top_student[1], 2)) + "\n")
+
+    f.close()
