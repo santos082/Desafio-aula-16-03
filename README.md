@@ -71,18 +71,16 @@ com base nas informações analisadas.
       geral das informações.
 
 - RN05: Todos os resultados devem ser organizados em um relatório final,
-      permitindo que a coordenação consulte os dados de forma rápida e clara. 
+      permitindo que a coordenação consulte os dados de forma rápida e clara.
+
+
 
 # Mapa de Empatia 
-
 
 # O que vê:
   - Dados desorganizados
   - Informações inconsistentes
   - Dificuldados em análizar os dados
-
-
-
 
 # O que ouve:
 
@@ -92,21 +90,16 @@ com base nas informações analisadas.
  - Insegurança nos dados
  - Dificuldade em confiar nos resultados
 
-
-
 # O que fala e faz:
 
  - Analisa manualmente
  - Perde tempo com retrabalho
-
-
 
 # Dores:
 
  - Dados incompletos
  - Falta de automação
  - Alto risco de erro
-
 
 # Ganhos:
 
@@ -115,5 +108,5 @@ com base nas informações analisadas.
  - Decisões mais seguras
 
 
-![Organização de Dados](https://media.giphy.com)
+![Processamento](https://media.giphy.com)
 
