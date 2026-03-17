@@ -28,7 +28,7 @@ RF09: Esse relatório deve ser salvo em um arquivo no formato .txt,
 
 
 
-***************** Requisitos Não-Funcionais (RNF) ****************
+***************  Requisitos Não-Funcionais (RNF) ***************
 
 
 Os requisitos não-funcionais descrevem como o sistema deve funcionar, 
