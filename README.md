@@ -76,46 +76,44 @@ com base nas informações analisadas.
 # Mapa de Empatia
 
 ======================================
-- O que vê:
-   Dados desorganizados
-   Informações inconsistentes
-   Dificuldados em análizar os dados
+# O que vê:
+  - Dados desorganizados
+  - Informações inconsistentes
+  - Dificuldados em análizar os dados
 
 
 ======================================
 
-- O que ouve:
+# O que ouve:
 
-  Reclamações sobre erros
-  Pressão por rapidez
-  O que pensa e sente:
-  Insegurança nos dados
-  Dificuldade em confiar nos resultados
-
-======================================
-
-- O que fala e faz:
-
-  Analisa manualmente
-  Perde tempo com retrabalho
+ - Reclamações sobre erros 
+ - Pressão por rapidez
+ - O que pensa e sente:
+ - Insegurança nos dados
+ - Dificuldade em confiar nos resultados
 
 ======================================
 
-- Dores:
+# O que fala e faz:
 
-  Dados incompletos
-  Falta de automação
-  Alto risco de erro
+ - Analisa manualmente
+ - Perde tempo com retrabalho
 
 ======================================
 
-- Ganhos:
+# Dores:
 
-  Automação
-  Relatórios rápidos
-  Decisões mais seguras
+ - Dados incompletos
+ - Falta de automação
+ - Alto risco de erro
 
-  ## TRELLO
+======================================
 
-  ![Alt](imagens/imagens.png)
+# Ganhos:
+
+ - Automação
+ - Relatórios rápidos
+ - Decisões mais seguras
+
+
 
